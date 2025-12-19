@@ -55,7 +55,7 @@ docker run -d --name cloudflare-ai-web \
 
 支持的提供者：
 
-- google
+- google  
 
 多个提供者使用逗号分隔
 
